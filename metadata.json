@@ -1,0 +1,6 @@
+{
+  "name": "M830s CNC Command Center",
+  "description": "A high-performance dual-channel CNC dashboard designed for turn-mill complex machines, inspired by the Mitsubishi M830s interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
